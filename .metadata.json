@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bndesr",
+    "oncran": true
+  },
+  {
+    "package": "dail",
+    "oncran": true
+  },
+  {
+    "package": "ispdata",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bndesr"]
+	path = bndesr
+	url = https://github.com/igorlaltuf/bndesr
+	shallow = true
+	registered = true
+[submodule "dail"]
+	path = dail
+	url = https://github.com/igorlaltuf/dail
+	shallow = true
+	registered = true
+[submodule "ispdata"]
+	path = ispdata
+	url = https://github.com/igorlaltuf/ispdata
+	shallow = true
+	registered = true
