@@ -5,9 +5,6 @@
 [submodule "BrazilCrime"]
 	path = BrazilCrime
 	url = https://github.com/igorlaltuf/brazilcrime
-[submodule "bndesr"]
-	path = bndesr
-	url = https://github.com/igorlaltuf/bndesr
 [submodule "dail"]
 	path = dail
 	url = https://github.com/igorlaltuf/dail
